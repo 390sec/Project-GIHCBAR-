@@ -81,9 +81,10 @@ This separation reflects **ethical research practice and professional responsibi
 - Documentation and requirements thinking  
 - Ethical analysis and interpretation  
 - Supporting tools:
-  - Documentation platforms (LibreOffice, etc.)
-  - Versioned research storage
-  - Analytical frameworks and requirement engineering concepts  
+  - Generative Pre-Trained Transformer ( GPT )
+  - Documentation platforms (LibreOffice,database etc.)
+  - Versioned research storage(different Accounts + Machines )
+  - Analytical frameworks and requirement engineering concepts ( Requirement Engineering and Analysis )
 
 ---
 
